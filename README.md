@@ -6,9 +6,7 @@ I have been doing web development jobs since my university life(2011). I am buil
 
 ### Skills: HTML5 / CSS3/ Bootstrap5/ Javascript/ PHP/ MySQL/ Wordpress
 
-<h3 align="center">A passionate frontend and backend developer from Bangladesh</h3>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">A passionate frontend and backend developer from Bangladesh</h3>
 <p align="left">
 </p>
 
