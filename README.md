@@ -16,7 +16,7 @@ I have been doing web development jobs since my university life(2011). I am buil
 
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning MERN stack 
-- 👯 I’m looking to collaborate on Pacifying poor people sufferings  
+- 👯 I’m looking to collaborate on pacifying poor people's sufferings  
 - 🤔 I’m looking for help with Laravel 
 - 💬 Ask me about Web Development and Wordpress 
 - 📫 How to reach me: mustafiz080@gmail.com 
