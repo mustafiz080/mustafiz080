@@ -1,10 +1,10 @@
 ### Hi there 👋, My name is Muhammad Mostafizar Rahman. You can call me Mostafiz in short.
-#### I am Web Developer
+#### I am a Web Developer
 ![I am Web Developer](https://scontent.fdac50-1.fna.fbcdn.net/v/t39.30808-6/448520878_25590568553924730_2990767888582390181_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=qyKdKrzwwcwQ7kNvgH47o43&_nc_oc=Adg2dkpg1hi27etbU5Ow-WaxqM-sH2YbGcsd3ErIvLGs9MGyDNOkxnwL6CWU2JeuXsc&_nc_zt=23&_nc_ht=scontent.fdac50-1.fna&_nc_gid=A8K756x6XVch87wwJDn0RYK&oh=00_AYB7xh2RtW1t_4xLp4YctiNEjShb34zVfqItVSc4UuiFYw&oe=67C9EE30)
 
 I have been doing web development jobs since my university life(2011). I am building responsive website with raw HTML5, CSS3 and Javascript. If your requirement is framework then that's fine, I will build your website with Bootstrap5 framework. I am an expert on CMS like Wordpress, I have also created lot of ecommerce websites with it. I will customize the Wordpress theme according to your requirement and give back end support with PHP and MySQL. Just let me know guys.
 
-Skills: HTML5 / CSS3/ Bootstrap5/ Javascript/ PHP/ MySQL/ Wordpress
+### Skills: HTML5 / CSS3/ Bootstrap5/ Javascript/ PHP/ MySQL/ Wordpress
 
 - 🔭 I’m currently working on Web Development 
 - 🌱 I’m currently learning MERN stack 
